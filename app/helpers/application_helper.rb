@@ -17,6 +17,6 @@ module ApplicationHelper
   end
 
   def copyright_generator
-     AriasViewTool::Renderer.copyright 'Ismael Arias', 'All Rights Reserved'
+    AriasViewTool::Renderer.copyright 'Ismael Arias', 'All Rights Reserved'
   end
 end
